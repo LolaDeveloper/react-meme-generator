@@ -30,3 +30,6 @@ body {
   font-size: 0.75rem;
   font-weight: 500;
 }
+main {
+  padding: 36px;
+}
