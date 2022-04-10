@@ -33,3 +33,6 @@ body {
 main {
   padding: 36px;
 }
+.App footer {
+  text-align: center;
+}
