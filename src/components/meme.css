@@ -2,6 +2,7 @@
   display: grid;
   grid-template: 40px 40px / 1fr 1fr;
   gap: 17px;
+  margin-bottom: 17px;
 }
 .Meme .formInput {
   border-radius: 5px;
@@ -14,9 +15,11 @@
   background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
   color: white;
   border: none;
+  cursor: pointer;
 }
 .Meme .meme--Image {
   max-width: 100%;
+  border-radius: 3px;
 }
 
 .Meme .meme {
