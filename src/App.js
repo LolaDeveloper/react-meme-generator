@@ -19,11 +19,19 @@ export default function App() {
         <Meme />
         <footer>
           This project was coded by{" "}
-          <a href="#" target="_blank" rel=" noopener norefferer">
+          <a
+            href="https://lola-portfolio.netlify.app/"
+            target="_blank"
+            rel=" noopener noreferrer"
+          >
             Funmilola
           </a>{" "}
           and is{" "}
-          <a href="#" target="_blank" rel=" noopener norefferer">
+          <a
+            href="https://github.com/LolaDeveloper/react-meme-generator"
+            target="_blank"
+            rel=" noopener noreferrer"
+          >
             open-sourced on Github
           </a>
         </footer>
